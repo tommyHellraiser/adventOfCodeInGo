@@ -8,7 +8,7 @@ I'll also be tracking the progress until full completion of all events (2015 ~ t
 - [x] Day 1 - Not Quite Lisp
 - [x] Day 2 - I Was Told There Would Be No Math
 - [x] Day 3 - Perfectly Spherical Houses in a Vacuum
-- [ ] Day 4 - The Ideal Stocking Stuffer
+- [x] Day 4 - The Ideal Stocking Stuffer
 - [ ] Day 5 - Doesn't He Have Intern-Elves For This?
 - [ ] Day 6 - Probably a Fire Hazard
 - [ ] Day 7 - Some Assembly Required
